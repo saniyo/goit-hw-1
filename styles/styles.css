@@ -1,0 +1,21 @@
+body {
+    position: relative;
+    width: 1600px;
+    height: 2350px;
+    background: #FFFFFF;
+    overflow: hidden;
+}
+
+header {
+    
+}
+
+ul {
+    overflow: hidden;
+}
+
+ul li {
+    float: left;
+    padding: 10px;
+    margin: 10px;
+}
