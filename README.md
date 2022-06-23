@@ -1,2 +1,2 @@
-# goit-hw-1-symantic
+# goit-hw-1
 html symantic
